@@ -1,0 +1,80 @@
+index,RM,INDUS,MEDV-Actual,Predicted,Residual,Zero-category,Absolute residual,Range
+96,6.16,2.89,21.4,24.07,-2.67,Less than 0,2.67,Category 2-3
+289,6.56,5.32,24.8,26.46,-1.66,Less than 0,1.66,Category 1-2
+456,5.98,18.1,12.7,17.62,-4.92,Less than 0,4.92,Category 4-5
+143,5.47,19.58,15.6,13.11,2.49,Greater than 0,2.49,Category 2-3
+267,8.3,3.97,50.0,40.61,9.39,Greater than 0,9.39,Greater than 7
+253,8.26,5.86,42.8,39.69,3.11,Greater than 0,3.11,Category 3-4
+93,6.21,15.04,25.0,20.48,4.52,Greater than 0,4.52,Category 4-5
+108,6.47,8.56,19.8,24.68,-4.88,Less than 0,4.88,Category 4-5
+95,6.62,2.89,28.4,27.73,0.67,Greater than 0,0.67,Category 0-1
+497,5.79,9.69,18.3,18.93,-0.63,Less than 0,0.63,Category 0-1
+452,6.3,18.1,16.1,20.16,-4.06,Less than 0,4.06,Category 4-5
+328,5.87,3.24,19.3,21.62,-2.32,Less than 0,2.32,Category 2-3
+435,6.63,18.1,13.4,22.79,-9.39,Less than 0,9.39,Greater than 7
+283,7.92,1.21,50.0,38.55,11.45,Greater than 0,11.45,Greater than 7
+476,6.48,18.1,16.7,21.64,-4.94,Less than 0,4.94,Category 4-5
+5,6.43,2.18,28.7,26.42,2.28,Greater than 0,2.28,Category 2-3
+363,5.8,18.1,16.8,16.25,0.55,Greater than 0,0.55,Category 0-1
+243,6.39,4.93,23.7,25.22,-1.52,Less than 0,1.52,Category 1-2
+8,5.63,7.87,16.5,18.23,-1.73,Less than 0,1.73,Category 1-2
+342,6.54,1.89,16.5,27.38,-10.88,Less than 0,10.88,Greater than 7
+181,6.14,2.46,36.2,24.06,12.14,Greater than 0,12.14,Greater than 7
+164,5.85,19.58,22.7,16.17,6.53,Greater than 0,6.53,Category 5-7
+144,4.9,19.58,11.8,8.64,3.16,Greater than 0,3.16,Category 3-4
+329,6.33,3.24,22.6,25.3,-2.7,Less than 0,2.7,Category 2-3
+7,6.17,7.87,27.1,22.51,4.59,Greater than 0,4.59,Category 4-5
+404,5.53,18.1,8.5,14.1,-5.6,Less than 0,5.6,Category 5-7
+331,5.71,6.06,17.1,19.42,-2.32,Less than 0,2.32,Category 2-3
+385,5.28,18.1,7.2,12.09,-4.89,Less than 0,4.89,Category 4-5
+503,6.98,11.93,23.9,27.55,-3.65,Less than 0,3.65,Category 3-4
+309,5.97,9.9,20.3,20.27,0.03,Greater than 0,0.03,Category 0-1
+446,6.34,18.1,14.9,20.51,-5.61,Less than 0,5.61,Category 5-7
+212,5.81,10.59,22.4,18.74,3.66,Greater than 0,3.66,Category 3-4
+80,6.73,4.86,28.0,27.89,0.11,Greater than 0,0.11,Category 0-1
+495,5.67,9.69,23.1,17.95,5.15,Greater than 0,5.15,Category 5-7
+291,7.15,4.95,37.3,31.2,6.1,Greater than 0,6.1,Category 5-7
+218,5.95,13.89,21.5,18.8,2.7,Greater than 0,2.7,Category 2-3
+204,8.03,2.68,50.0,38.95,11.05,Greater than 0,11.05,Greater than 7
+397,5.75,18.1,8.5,15.81,-7.31,Less than 0,7.31,Greater than 7
+304,7.24,2.18,36.1,32.8,3.3,Greater than 0,3.3,Category 3-4
+22,6.14,8.14,15.2,22.19,-6.99,Less than 0,6.99,Category 5-7
+299,7.04,2.24,29.0,31.23,-2.23,Less than 0,2.23,Category 2-3
+72,6.06,10.81,22.8,20.71,2.09,Greater than 0,2.09,Category 2-3
+149,5.6,19.58,15.4,14.14,1.26,Greater than 0,1.26,Category 1-2
+154,6.13,19.58,17.0,18.35,-1.35,Less than 0,1.35,Category 1-2
+128,6.43,21.89,18.0,19.98,-1.98,Less than 0,1.98,Category 1-2
+203,7.85,2.68,48.5,37.52,10.98,Greater than 0,10.98,Greater than 7
+122,5.96,25.65,20.5,15.03,5.47,Greater than 0,5.47,Category 5-7
+348,6.64,2.01,24.5,28.09,-3.59,Less than 0,3.59,Category 3-4
+248,6.43,5.86,24.5,25.24,-0.74,Less than 0,0.74,Category 0-1
+109,6.23,8.56,19.4,22.74,-3.34,Less than 0,3.34,Category 3-4
+77,6.14,12.83,20.8,20.64,0.16,Greater than 0,0.16,Category 0-1
+274,6.76,6.41,32.4,27.63,4.77,Greater than 0,4.77,Category 4-5
+296,6.55,13.92,27.1,23.52,3.58,Greater than 0,3.58,Category 3-4
+502,6.12,11.93,20.6,20.78,-0.18,Less than 0,0.18,Category 0-1
+424,5.56,18.1,11.7,14.37,-2.67,Less than 0,2.67,Category 2-3
+222,6.88,6.2,27.5,28.66,-1.16,Less than 0,1.16,Category 1-2
+392,5.04,18.1,9.7,10.18,-0.48,Less than 0,0.48,Category 0-1
+21,5.96,8.14,19.6,20.79,-1.19,Less than 0,1.19,Category 1-2
+467,6.0,18.1,19.1,17.83,1.27,Greater than 0,1.27,Category 1-2
+468,5.93,18.1,19.1,17.22,1.88,Greater than 0,1.88,Category 1-2
+374,4.14,18.1,13.8,3.07,10.73,Greater than 0,10.73,Greater than 7
+334,6.31,5.19,20.7,24.48,-3.78,Less than 0,3.78,Category 3-4
+200,7.14,1.47,32.9,32.23,0.67,Greater than 0,0.67,Category 0-1
+322,6.04,7.38,20.4,21.64,-1.24,Less than 0,1.24,Category 1-2
+279,6.81,3.33,35.1,29.06,6.04,Greater than 0,6.04,Category 5-7
+295,6.68,13.92,28.6,24.54,4.06,Greater than 0,4.06,Category 4-5
+373,4.91,18.1,13.8,9.15,4.65,Greater than 0,4.65,Category 4-5
+15,5.83,8.14,19.9,19.75,0.15,Greater than 0,0.15,Category 0-1
+377,6.79,18.1,13.3,24.1,-10.8,Less than 0,10.8,Greater than 7
+49,5.6,6.91,19.4,18.32,1.08,Greater than 0,1.08,Category 1-2
+313,6.27,9.9,21.6,22.6,-1.0,Less than 0,1.0,Category 1-2
+273,7.69,6.96,35.2,34.84,0.36,Greater than 0,0.36,Category 0-1
+420,6.41,18.1,16.7,21.06,-4.36,Less than 0,4.36,Category 4-5
+318,6.38,9.9,23.1,23.51,-0.41,Less than 0,0.41,Category 0-1
+27,6.05,8.14,14.8,21.44,-6.64,Less than 0,6.64,Category 5-7
+379,6.22,18.1,10.2,19.58,-9.38,Less than 0,9.38,Greater than 7
+17,5.99,8.14,17.5,20.99,-3.49,Less than 0,3.49,Category 3-4
+106,5.84,8.56,19.5,19.63,-0.13,Less than 0,0.13,Category 0-1
+71,5.96,10.81,21.7,19.88,1.82,Greater than 0,1.82,Category 1-2
